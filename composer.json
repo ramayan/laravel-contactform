@@ -1,0 +1,14 @@
+{
+    "name": "ramayan/laracontactform",
+    "description": "Laravel contact form",
+    "authors": [{
+        "name": "Ramayan Prasad",
+        "email": "ram.developer89@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ramayan\\Laracontactform1\\": "src/"
+        }
+    }
+}
