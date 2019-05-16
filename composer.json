@@ -1,5 +1,5 @@
 {
-    "name": "ramayan/laracontactform",
+    "name": "ramayan/laravel-contactform",
     "type": "library",
     "description": "Laravel contact form",
     "keywords": ["Laravel Contact Form", "Contact Form"],
